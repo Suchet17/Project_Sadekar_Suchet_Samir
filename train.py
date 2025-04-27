@@ -83,7 +83,7 @@ def trainer(model, num_epochs=num_epochs, train_loader = train_loader, criterion
         print(f"Loss = {running_loss/len(train_loader):.12f}", file=log)
         print(f"Validation Accuracy = {accuracy:.6f}\n", file=log, flush=True)
         torch.save(model.state_dict(), f"checkpoints/epoch{epoch+1}_loss{running_loss/len(train_loader):.6f}_acc{accuracy*100:.4f}.pth")
-    torch.save(model.state_dict(), f"checkpoints/final_weights.pth")
+    torch.save(model.state_dict(), f"checkpoints/Final_weights.pth")
     print("Training complete!", file=log, flush=True)
     print(f"Time taken for {epoch+1} epochs = {now()-start}", file=log, flush=True)
     log.close()
