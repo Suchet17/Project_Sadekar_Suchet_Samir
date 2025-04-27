@@ -31,3 +31,8 @@ More details can be found in __Project_Proposal.pdf__
     * Output: .pth files after each epoch to the checkpoints directory, output.log file with training loss and validation accuracy
 * requirements.txt: 
     * use `pip install -r requirements.txt` to install required python packages.
+
+## Accuracy Metrics
+
+![Training Loss](Loss.png "Training Loss")  
+![Validation Accuracy](Acc.png "Validation Accuracy")  
