@@ -17,7 +17,7 @@ More details can be found in __Project_Proposal.pdf__
 ## Data Sources  
 [Kaggle Database 1 - Pokemon](https://www.kaggle.com/datasets/noodulz/pokemon-dataset-1000/code)  
 [Kaggle Database 2 - Control](https://www.kaggle.com/datasets/rhtsingh/google-universal-image-embeddings-128x128)  
-[Metedata](https://pokemondb.net/tools/text-list)  
+[Metadata](https://pokemondb.net/tools/text-list)  
 
 ## Code Specifications
 
@@ -35,4 +35,5 @@ More details can be found in __Project_Proposal.pdf__
 ## Accuracy Metrics
 
 ![Training Loss](Loss.png "Training Loss")  
+
 ![Validation Accuracy](Acc.png "Validation Accuracy")  
