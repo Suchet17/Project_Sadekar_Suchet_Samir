@@ -1,5 +1,6 @@
 # Project_Sadekar_Suchet_Samir
 
+### This project was undertaken as part of an assignment for a course on Image and Video Processing using Deep Learning
 ## Problem Statement
 
 In the Pokemon world, a Pokedex is an electronic encyclopaedia used to record and access
